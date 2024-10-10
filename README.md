@@ -1,5 +1,5 @@
 # Heart-Disease-prediction
-This Project is an Real Life Application of Machine Learning Techniques in Medical Field. The main objective is to predict better predictions of Diabetic Result based on Patients' Body following attributes:
+This Project is an Real Life Application of Machine Learning Techniques in Medical Field. The main objective is to predict better predictions of Heart Disease based on Patients' Body following attributes:
 # Dataset description
 This dataset consists of 11 features and a target variable. It has 6 nominal variables and 5 numeric variables. The detailed description of all the features are as follows:
 
