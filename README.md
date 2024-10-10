@@ -24,5 +24,5 @@ Matplotlib & Seaborn for data visualization
 TensorFlow/Keras (if using deep learning)
 Environment: Jupyter Notebook
 
-# What is the need for this Analysis?
+# 🔍 What is the need for this Analysis?
 Heart disease prediction analysis is crucial for early detection and prevention, reducing mortality rates. It aids in identifying at-risk individuals, enabling timely intervention and lifestyle modifications.
