@@ -15,5 +15,14 @@ This dataset consists of 11 features and a target variable. It has 6 nominal var
 10. oldpeak: Exercise induced ST-depression in comparison with the state of rest (Numeric)
 11. ST slope: ST segment measured in terms of slope during peak exercise 0: Normal 1: Upsloping 2: Flat 3: Downsloping (Nominal
 
+💻 Technologies & Tools
+Programming Language: Python
+Libraries:
+Pandas & Numpy for data manipulation
+Scikit-learn for machine learning models
+Matplotlib & Seaborn for data visualization
+TensorFlow/Keras (if using deep learning)
+Environment: Jupyter Notebook
+
 # What is the need for this Analysis?
 Heart disease prediction analysis is crucial for early detection and prevention, reducing mortality rates. It aids in identifying at-risk individuals, enabling timely intervention and lifestyle modifications.
