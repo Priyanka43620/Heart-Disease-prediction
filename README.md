@@ -14,3 +14,6 @@ This dataset consists of 11 features and a target variable. It has 6 nominal var
 9. exercise angina: Angina induced by exercise 0 depicting NO 1 depicting Yes (Nominal)
 10. oldpeak: Exercise induced ST-depression in comparison with the state of rest (Numeric)
 11. ST slope: ST segment measured in terms of slope during peak exercise 0: Normal 1: Upsloping 2: Flat 3: Downsloping (Nominal
+
+# What is the need for this Analysis?
+Heart disease prediction analysis is crucial for early detection and prevention, reducing mortality rates. It aids in identifying at-risk individuals, enabling timely intervention and lifestyle modifications.
