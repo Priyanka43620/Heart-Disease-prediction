@@ -15,7 +15,7 @@ This dataset consists of 11 features and a target variable. It has 6 nominal var
 10. oldpeak: Exercise induced ST-depression in comparison with the state of rest (Numeric)
 11. ST slope: ST segment measured in terms of slope during peak exercise 0: Normal 1: Upsloping 2: Flat 3: Downsloping (Nominal
 
-💻 Technologies & Tools
+# 💻 Technologies & Tools
 Programming Language: Python
 Libraries:
 Pandas & Numpy for data manipulation
